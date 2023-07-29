@@ -1,6 +1,6 @@
 # ITBrainsLessons 
 <h1>GIT essential commands</h1>
-<div>
+<h5>
 1.git init - to initialize new repository <br>
 2..gitignore this file is used to ignore files and folders from tacking by GIT<br>
 3.GIT's commit is 2 step process, firstly we suggest which files should be on next commit by git add ., git add filename, git add *.txt and etc. command and next commit them<br>
@@ -9,4 +9,4 @@
 git remote add origin https://github.com/IlkinNovruzov/Test.git
 git branch -M main
 git push -u origin main
-</div>
+</h5>
