@@ -1,0 +1,15 @@
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\bin\Debug\net7.0\Task44.exe
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\bin\Debug\net7.0\Task44.deps.json
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\bin\Debug\net7.0\Task44.runtimeconfig.json
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\bin\Debug\net7.0\Task44.dll
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\bin\Debug\net7.0\Task44.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.csproj.AssemblyReference.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.AssemblyInfoInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.AssemblyInfo.cs
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.dll
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\refint\Task44.dll
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\Task44.genruntimeconfig.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrain\Lesson4\Task44\Task44\obj\Debug\net7.0\ref\Task44.dll
