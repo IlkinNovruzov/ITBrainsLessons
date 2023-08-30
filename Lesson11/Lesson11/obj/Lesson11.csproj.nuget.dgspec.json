@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson9\\Lesson9\\Lesson9.csproj": {}
+    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson11\\Lesson11\\Lesson11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson9\\Lesson9\\Lesson9.csproj": {
+    "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson11\\Lesson11\\Lesson11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson9\\Lesson9\\Lesson9.csproj",
-        "projectName": "Lesson9",
-        "projectPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson9\\Lesson9\\Lesson9.csproj",
+        "projectUniqueName": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson11\\Lesson11\\Lesson11.csproj",
+        "projectName": "Lesson11",
+        "projectPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson11\\Lesson11\\Lesson11.csproj",
         "packagesPath": "C:\\Users\\ilkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson9\\Lesson9\\obj\\",
+        "outputPath": "C:\\Users\\ilkin\\OneDrive\\Masaüstü\\ITBrains\\Lesson11\\Lesson11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
