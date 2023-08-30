@@ -1,0 +1,14 @@
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\bin\Debug\net7.0\Lesson11.exe
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\bin\Debug\net7.0\Lesson11.deps.json
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\bin\Debug\net7.0\Lesson11.runtimeconfig.json
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\bin\Debug\net7.0\Lesson11.dll
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\bin\Debug\net7.0\Lesson11.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.AssemblyInfoInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.AssemblyInfo.cs
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.dll
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\refint\Lesson11.dll
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\Lesson11.genruntimeconfig.cache
+C:\Users\ilkin\OneDrive\Masaüstü\ITBrains\Lesson11\Lesson11\obj\Debug\net7.0\ref\Lesson11.dll
