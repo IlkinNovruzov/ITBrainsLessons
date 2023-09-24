@@ -1,0 +1,16 @@
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\bin\Debug\net7.0-windows\Practice3.exe
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\bin\Debug\net7.0-windows\Practice3.deps.json
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\bin\Debug\net7.0-windows\Practice3.runtimeconfig.json
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\bin\Debug\net7.0-windows\Practice3.dll
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\bin\Debug\net7.0-windows\Practice3.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.Form1.resources
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.csproj.GenerateResource.cache
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.AssemblyInfoInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.AssemblyInfo.cs
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.dll
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\refint\Practice3.dll
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\Practice3.genruntimeconfig.cache
+C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Practice3\Practice3\obj\Debug\net7.0-windows\ref\Practice3.dll
