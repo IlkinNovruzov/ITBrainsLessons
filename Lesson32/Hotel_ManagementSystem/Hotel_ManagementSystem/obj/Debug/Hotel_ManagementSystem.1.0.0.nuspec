@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hotel_ManagementSystem</id>
+    <version>1.0.0</version>
+    <authors>Hotel_ManagementSystem</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Hotel_ManagementSystem\Hotel_ManagementSystem\bin\Debug\net7.0-windows\Hotel_ManagementSystem.runtimeconfig.json" target="lib\net7.0-windows7.0\Hotel_ManagementSystem.runtimeconfig.json" />
+    <file src="C:\Users\ilkin\OneDrive\Masaüstü\Csharp\Hotel_ManagementSystem\Hotel_ManagementSystem\bin\Debug\net7.0-windows\Hotel_ManagementSystem.dll" target="lib\net7.0-windows7.0\Hotel_ManagementSystem.dll" />
+  </files>
+</package>
