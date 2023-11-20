@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color: beige;
+}
+ul{
+    display: flex;
+    word-wrap: wrap;
+}
+li{
+    width: 30%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 25px 25px;
+}
+li:hover{
+    outline: 1px solid grey;
+    border-radius: 10px;
+}
+.head{
+    color: orangered;
+    background-color: pink;
+    padding: 10px;
+    width: 40%;
+    font-size: large;
+    border-radius: 20px;
+}
+.text{
+    margin: 30px 0;
+    font-size: large;
+    font-weight: bold;
+
+}
+.address{
+    margin: 20px 0;
+    color: gray;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.time{
+    color: gray;
+}
