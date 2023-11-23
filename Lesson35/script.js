@@ -157,14 +157,14 @@ let arr2 = [
 //         arr2[i].name='SuperDev'
 // }}
 // 20 arr2 de "name"-i en uzun olan obyektin key-i ni tapin
-var k, len = arr2[0].name.length;
-for (var i = 0; i < arr2.length; i++) {
-    if (arr2[i].name.length > len) {
-        len = arr2[i].name.length
-        k = arr2[i].key
-    }
-}
-console.log(k)
+// var k, len = arr2[0].name.length;
+// for (var i = 0; i < arr2.length; i++) {
+//     if (arr2[i].name.length > len) {
+//         len = arr2[i].name.length
+//         k = arr2[i].key
+//     }
+// }
+// console.log(k)
 // 21 arr2 de "name"-i en uzun olan obyektin indexin kvadratini hesablayin
 // var kv,len=arr2[0].name.length;;
 // for(var i=0;i<arr2.length;i++){
@@ -182,25 +182,45 @@ console.log(k)
 // console.log(array)
 
 // 23 arr2 de en boyuk "key" - i olan obyektin "name"-i ni tapin
-var max = arr2[0].key, index
-for (var i = 0; i < arr2.length; i++) {
-    if (arr2[i].key > max) {
-        max = arr2[i].key;
-        index = i;
-    }
-}
-console.log(arr2[index].name)
+// var max = arr2[0].key, index
+// for (var i = 0; i < arr2.length; i++) {
+//     if (arr2[i].key > max) {
+//         max = arr2[i].key;
+//         index = i;
+//     }
+// }
+// console.log(arr2[index].name)
 // 24 arr2 de terkibinde 2 'L' herfi olan obyekt(ler)in index(ler)ini tapin.
-var c = 0;
-for (var i = 0; i < arr2.length; i++) {
-    for (var j = 0; j < arr2[i].name.length; j++) {
-        if (arr[i].name[0]=='l'){
+// var c = 0;
+// for (var i = 0; i < arr2.length; i++) {
+//     for (var j = 0; j < arr2[i].name.length; j++) {
+//         if (arr[i].name[0] == 'l') {
+//             c++;
+//         }
+//     }
+
+//     if (c == 2) {
+//         console.log(i)
+//     }
+//     c = 0;
+// }
+let a = [1,23,3, 3, 2,4, 7, 2, 1],b=[]
+var c=0,s="";
+for (var i = 0; i < a.length; i++) {
+    if(b.includes(a[i])){
+        continue;
+    }
+    for (var j =0; j < a.length; j++) {
+        if(a[i]==a[j]){
             c++;
         }
     }
-
-    if (c==2) {
-        console.log(i)
+    b.push(a[i])
+    if(c>1){
+       s+=a[i];
     }
+    console.log(a[i]+':'+c)
     c=0;
 }
+console.log(s)
+
