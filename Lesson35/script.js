@@ -191,36 +191,37 @@ let arr2 = [
 // }
 // console.log(arr2[index].name)
 // 24 arr2 de terkibinde 2 'L' herfi olan obyekt(ler)in index(ler)ini tapin.
-// var c = 0;
-// for (var i = 0; i < arr2.length; i++) {
-//     for (var j = 0; j < arr2[i].name.length; j++) {
-//         if (arr[i].name[0] == 'l') {
-//             c++;
-//         }
-//     }
-
-//     if (c == 2) {
-//         console.log(i)
-//     }
-//     c = 0;
-// }
-let a = [1,23,3, 3, 2,4, 7, 2, 1],b=[]
-var c=0,s="";
-for (var i = 0; i < a.length; i++) {
-    if(b.includes(a[i])){
-        continue;
-    }
-    for (var j =0; j < a.length; j++) {
-        if(a[i]==a[j]){
+var c = 0,s="";
+for (var i = 0; i < arr2.length; i++) {
+    for (var j = 0; j < arr2[i].name.length; j++) {
+        s=arr[i].name;
+        if (s.charCodeAt(j)=='l') {
             c++;
         }
     }
-    b.push(a[i])
-    if(c>1){
-       s+=a[i];
+
+    if (c == 2) {
+        console.log(i)
     }
-    console.log(a[i]+':'+c)
-    c=0;
+    c = 0;
 }
-console.log(s)
+// let a = [1,23,3, 3, 2,4, 7, 2, 1],b=[]
+// var c=0,s="";
+// for (var i = 0; i < a.length; i++) {
+//     if(b.includes(a[i])){
+//         continue;
+//     }
+//     for (var j =0; j < a.length; j++) {
+//         if(a[i]==a[j]){
+//             c++;
+//         }
+//     }
+//     b.push(a[i])
+//     if(c>1){
+//        s+=a[i];
+//     }
+//     console.log(a[i]+':'+c)
+//     c=0;
+// }
+// console.log(s)
 
