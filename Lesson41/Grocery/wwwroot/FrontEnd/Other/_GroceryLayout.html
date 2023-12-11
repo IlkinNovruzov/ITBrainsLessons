@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="_GroceryLayout.css">
+    <link rel="stylesheet" href="/Details/details.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery</title>
+</head>
+
+<body>
+   
+
+    <header>
+        <div class="navbar">
+            <div class="logo">
+                <i class="fa-solid fa-basket-shopping"></i>
+                <span>Grocery</span>
+            </div>
+            <div class="menu">
+                <a href="#">Home</a>
+                <a href="#">Products</a>
+                <a href="#">Categories</a>
+                <a href="#">Features</a>
+                <a href="#">Review</a>
+            </div>
+            <div class="iconmenu">
+                <i class="fa-solid fa-magnifying-glass" id="search"></i>
+                <i class="fa-solid fa-cart-shopping" id="shop-cart"></i>
+                <i class="fa-solid fa-user" id="user"></i>
+            </div>
+        </div>
+        <div class="navbar-cart">
+            <ul>
+                <b class="exit" id="x">x</b>
+                <li>
+                    <img src="https://londongrocery.net/cdn/shop/products/red_apples_180x.png?v=1613184701"
+                        class="cart-img" alt="">
+                    <div class="cart-context">
+                        <div id="cart10" class="car-name">Apple</div>
+                        <div class="cart-price">2.5 $</div>
+                    </div>
+                    <div class="cart-trash"><i class="fa-solid fa-trash"></i></div>
+                </li>
+                <li>
+                    <img src="https://londongrocery.net/cdn/shop/products/red_apples_180x.png?v=1613184701"
+                        class="cart-img" alt="">
+                    <div class="cart-context">
+                        <div class="car-name">Apple</div>
+                        <div class="cart-price">2.5 $</div>
+                    </div>
+                    <div class="cart-trash"><i class="fa-solid fa-trash"></i></div>
+                </li>
+                <li>
+                    <img src="https://londongrocery.net/cdn/shop/products/red_apples_180x.png?v=1613184701"
+                        class="cart-img" alt="">
+                    <div class="cart-context">
+                        <div class="car-name">Apple</div>
+                        <div class="cart-price">2.5 $</div>
+                    </div>
+                    <div class="count">
+                        <button onclick="Minus()" class="plusminus">-</button>
+                        <div id="number">1</div>
+                        <button onclick="Plus()" class="plusminus">+</button>
+                    </div>
+                    <div class="cart-trash"><i class="fa-solid fa-trash"></i></div>
+                </li>
+
+            </ul>
+        </div>
+    </header>
+    <script src="_GroceryLayout.js"></script>
+    <script src="/Details/details.js"></script>
+</body>
+
+</html>

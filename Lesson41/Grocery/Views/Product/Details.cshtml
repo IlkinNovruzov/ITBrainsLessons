@@ -1,0 +1,22 @@
+﻿@using Grocery.Models
+@model Product
+@{
+    Layout = "~/Views/Shared/_GroceryLayout.cshtml";
+}
+<div class="dcontainer">
+    <img src="@Model.Image" class="detailsImg" alt="">
+    <div class="context">
+        <div class="prop">
+            <div class="name">@Model.Name</div>
+            <div class="price">@Model.Price $</div>
+        </div>
+        <div class="count">
+            <div class="quantity">Quantity:</div>
+            <button onclick="Minus(@Model.Id)" class="plusminus">-</button>
+            <div id="@Model.Id">1</div>
+            <button onclick="Plus(@Model.Id)" class="plusminus">+</button>
+        </div>
+        <a href="#" class="add">Add To Cart</a>
+    </div>
+</div>
+<script src="~/frontend/details/details.js"></script>

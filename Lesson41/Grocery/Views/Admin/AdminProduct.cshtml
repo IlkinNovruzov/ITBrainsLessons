@@ -1,0 +1,29 @@
+﻿@using Grocery.Models
+@model List<Product>
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td style="padding:0 7.5px"><img src="@item.Image" alt="Photo" /></td>
+            <td>@item.Name</td>
+            <td>@item.Price $</td>
+            <td><a href="/Admin/DeleteProduct/@item.Id" class="btn btn-danger">Delete</a></td>
+        </tr>
+    }
+
+</table>
+<a asp-area="" asp-controller="Admin" asp-action="AddProduct" class="btn btn-primary">Add Product</a>
+
+

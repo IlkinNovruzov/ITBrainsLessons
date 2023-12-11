@@ -1,0 +1,22 @@
+﻿@using Grocery.Models
+@model List<Product>
+
+@{
+    Layout = "~/Views/Shared/_GroceryLayout.cshtml";
+}
+
+<ul class="ul-products">
+    @foreach (var p in Model)
+    {
+        <li id="@p.Id">
+            <a href="/Product/Details/@p.Id">
+                <img src="@p.Image" alt="">
+            </a>
+            <div class="context">
+                <div class="name">@p.Name</div>
+                <div class="price">@p.Price $</div>
+            </div>
+            <button class="add">Add to Cart</button>
+        </li>
+    }
+</ul>

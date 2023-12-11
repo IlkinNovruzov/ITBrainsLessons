@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    height: 80px;
+    background-color: rgb(103, 234, 52);
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    font-size: larger;
+    margin: 0 30px;
+
+}
+#cart{
+    margin-top: 50px;
+}
+.logo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.navbar a {
+    color: black;
+}
+.iconmenu{
+    display: flex;
+}
+.iconmenu i {
+    margin: 0 5px;
+    background-color: rgb(196, 200, 198);
+    padding: 8px;
+    color: black;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.menu a:hover {
+    border-bottom: black 2px solid;
+    margin-bottom: -2px;
+}
+
+.navbar-cart {
+    width: 250px;
+    height: 300px;
+    max-height: 300px;
+    position: absolute;
+    top: 6rem;
+    right: 1rem;
+    display: none;
+    border: 2px solid rgb(66, 227, 66);
+    padding: 1rem;
+    background: #fff;
+    overflow: auto;
+}
+ /* .cart:hover .navbar-cart{
+    display: block;
+ } */
+.navbar-cart .exit {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    padding: 3px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.navbar-cart .cart-trash {
+    cursor: pointer;
+}
+
+.navbar-cart.active {
+    display: block;
+}
+
+.cart-img {
+    width: 60px;
+    height: 60px;
+}
+
+.navbar-cart ul {
+    max-height: 400px;
+}
+
+.navbar-cart li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    border-bottom: 1px solid grey;
+}
+
+.cart-context {
+    font-size: large;
+}
